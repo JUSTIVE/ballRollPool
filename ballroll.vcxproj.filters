@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\Activites">
+      <UniqueIdentifier>{63c2652e-4321-41ab-82b8-31e4544aae5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ball">
+      <UniqueIdentifier>{b94d4a8d-beb8-4bca-9bb9-d81b3854120e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Activities">
+      <UniqueIdentifier>{4286f966-3594-4afe-8277-d36b28e8147d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ball">
+      <UniqueIdentifier>{47192568-4d2f-4ce4-8599-a01ec4a9abaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Activities\ingame">
+      <UniqueIdentifier>{a54be99f-3b1c-4ce4-8c3e-0f5ee02ca089}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="frame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Curtain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="credit.cpp">
+      <Filter>소스 파일\Activities</Filter>
+    </ClCompile>
+    <ClCompile Include="pregame.cpp">
+      <Filter>소스 파일\Activities</Filter>
+    </ClCompile>
+    <ClCompile Include="settings.cpp">
+      <Filter>소스 파일\Activities</Filter>
+    </ClCompile>
+    <ClCompile Include="ball.cpp">
+      <Filter>소스 파일\ball</Filter>
+    </ClCompile>
+    <ClCompile Include="force.cpp">
+      <Filter>소스 파일\ball</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>소스 파일\ball</Filter>
+    </ClCompile>
+    <ClCompile Include="rain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ingameC.cpp">
+      <Filter>소스 파일\Activities\ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="ingameV.cpp">
+      <Filter>소스 파일\Activities\ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="ingameM.cpp">
+      <Filter>소스 파일\Activities\ingame</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GL.H">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="frame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Curtain.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="acc.h">
+      <Filter>헤더 파일\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="ball.h">
+      <Filter>헤더 파일\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="force.h">
+      <Filter>헤더 파일\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>헤더 파일\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="velo.h">
+      <Filter>헤더 파일\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="ingame.h">
+      <Filter>헤더 파일\Activites</Filter>
+    </ClInclude>
+    <ClInclude Include="credit.h">
+      <Filter>헤더 파일\Activites</Filter>
+    </ClInclude>
+    <ClInclude Include="pregame.h">
+      <Filter>헤더 파일\Activites</Filter>
+    </ClInclude>
+    <ClInclude Include="settings.h">
+      <Filter>헤더 파일\Activites</Filter>
+    </ClInclude>
+    <ClInclude Include="decoline.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="relation.h">
+      <Filter>헤더 파일\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="rain.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="click_x.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="titlebgm.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="realbgm.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="bbbgm.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="felt.jpg">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

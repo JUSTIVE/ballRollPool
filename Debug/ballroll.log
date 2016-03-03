@@ -1,0 +1,34 @@
+﻿  Curtain.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  settings.cpp
+c:\users\민상\desktop\ballroll\settings.cpp(89): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\settings.cpp(100): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\settings.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\settings.cpp(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\settings.cpp(128): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\settings.cpp(225): warning C4805: '==': 연산에 'GLboolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  rain.cpp
+c:\users\민상\desktop\ballroll\rain.cpp(12): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\민상\desktop\ballroll\rain.cpp(54): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+  pregame.cpp
+c:\users\민상\desktop\ballroll\pregame.cpp(89): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\pregame.cpp(99): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\pregame.cpp(109): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\pregame.cpp(120): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\pregame.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  point.cpp
+  main.cpp
+  ingameV.cpp
+  ingameM.cpp
+  ingameC.cpp
+c:\users\민상\desktop\ballroll\ingamec.cpp(236): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  global.cpp
+  frame.cpp
+  force.cpp
+  credit.cpp
+c:\users\민상\desktop\ballroll\credit.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\민상\desktop\ballroll\credit.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ball.cpp
+  코드를 생성하고 있습니다...
+  ballroll.vcxproj -> C:\Users\민상\Desktop\ballroll\Debug\ballroll.exe
